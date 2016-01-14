@@ -50,4 +50,3 @@ png(filename='~R/plots/twitter1')
 wordcloud.generate(generateCorpus(tweets,'dev8d'),7)
 dev.off()
  
-
