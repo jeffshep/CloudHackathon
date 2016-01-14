@@ -1,4 +1,4 @@
-#This work was developed over 2 days during a Cloud Hackathon. I was new to Amazon Web Services completely so some time
+#This work was developed over 2 days during a Cloud Hackathon. I was completely new to Amazon Web Services, so some time
 #was taken up configuring Instances and VMs. It was also the first time I had used an API for grab data.
 #This is a proof of concept to run data analysis in the browser. The code has some errors with respect to the 
 #TermDocumentMatrix() function - line 32. 
